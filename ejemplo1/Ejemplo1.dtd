@@ -1,0 +1,8 @@
+<!ELEMENT root (Estudiantes)>
+<!ELEMENT Estudiantes (Est)>
+<!ELEMENT Est (Nced, Nombre, Ciudad, Telef)>
+<!ELEMENT Nced (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Ciudad (#PCDATA)>
+<!ELEMENT Telef (#PCDATA)>
+<!ATTLIST Telef tipo CDATA #REQUIRED>

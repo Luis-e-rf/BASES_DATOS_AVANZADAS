@@ -5,21 +5,16 @@
             <Nced>123456789</Nced>
             <Nombre>Luis Rodriguez</Nombre>
             <Ciudad>Bogotá</Ciudad>
-            <Telef>
-                <Tfijo>1234567</Tfijo>
-                <Tmovil>1234567890</Tmovil>
-            </Telef>
+            <Telef tipo="fijo">1234567</Telef>
+            <Telef tipo="movil">1234567890</Telef>
         </Est>
         <Est>
             <Nced>987654321</Nced>
             <Nombre>Michael Riaño</Nombre>
             <Ciudad>Medellin</Ciudad>
-            <Telef>
-                <Tfijo></Tfijo>
-                <Tmovil>6789012345</Tmovil>
-            </Telef>
+            <Telef tipo="fijo"></Telef>
+            <Telef tipo="movil">6789012345</Telef>
         </Est>
-
     </Estudiantes>
     <Materias>
         <Mat>
