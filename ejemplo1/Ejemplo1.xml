@@ -22,8 +22,20 @@
 
     </Estudiantes>
     <Materias>
-        <idMateria>1</idMateria>
-        <NombreMateria>Bases de datos avanzadas</NombreMateria>
-        
+        <Mat>
+            <idMateria>1</idMateria>
+            <NombreMateria>Bases de datos avanzadas</NombreMateria>
+            <Ncred>3</Ncred>
+        </Mat>
+        <Mat>
+            <idMateria>2</idMateria>
+            <NombreMateria>Diseño Avanzado de Algoritmos</NombreMateria>
+            <Ncred>3</Ncred>
+        </Mat>
+        <Mat>
+            <idMateria>3</idMateria>
+            <NombreMateria>Aprendizaje Automático y Minería De Datos</NombreMateria>
+            <Ncred>2</Ncred>
+        </Mat>
     </Materias>
 </root>
