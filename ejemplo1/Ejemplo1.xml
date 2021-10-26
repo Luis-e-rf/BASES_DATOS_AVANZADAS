@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Estudiantes>
+        <Est>
+            <Nced>123456789</Nced>
+            <Nombre>Luis Rodriguez</Nombre>
+            <Ciudad>Bogotá</Ciudad>
+            <Telef>
+                <Tfijo>1234567</Tfijo>
+                <Tmovil>1234567890</Tmovil>
+            </Telef>
+        </Est>
+        <Est>
+            <Nced>987654321</Nced>
+            <Nombre>Michael Riaño</Nombre>
+            <Ciudad>Medellin</Ciudad>
+            <Telef>
+                <Tfijo></Tfijo>
+                <Tmovil>6789012345</Tmovil>
+            </Telef>
+        </Est>
+
+    </Estudiantes>
+    <Materias>
+        <idMateria>1</idMateria>
+        <NombreMateria>Bases de datos avanzadas</NombreMateria>
+        
+    </Materias>
+</root>
