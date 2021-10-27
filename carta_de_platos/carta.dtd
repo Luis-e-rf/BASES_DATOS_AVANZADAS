@@ -1,0 +1,17 @@
+<!ELEMENT restaurante (menus*)>
+<!ELEMENT menus (primeros_platos*, segundos_platos*, tercer_plato*)>
+<!ELEMENT primeros_platos (primer_plato*)>
+<!ELEMENT primer_plato (id_primer, Nombre_primer, precio_primer, observaciones_primer, avisos_primer)>
+<!ELEMENT id_primer (#PCDATA)>
+<!ELEMENT Nombre_primer (#PCDATA)>
+<!ELEMENT precio_primer (#PCDATA)>
+<!ELEMENT observaciones_primer (#PCDATA)>
+<!ELEMENT avisos_primer (#PCDATA)>
+<!ELEMENT segundos_platos (segundo_plato*)>
+<!ELEMENT segundo_plato (id_segundo, Nombre_segundo, precio_segundo, observaciones_segundo, avisos_segundo)>
+<!ELEMENT id_segundo (#PCDATA)>
+<!ELEMENT Nombre_segundo (#PCDATA)>
+<!ELEMENT precio_segundo (#PCDATA)>
+<!ELEMENT observaciones_segundo (#PCDATA)>
+<!ELEMENT avisos_segundo (#PCDATA)>
+<!ATTLIST Telef tipo CDATA #REQUIRED>

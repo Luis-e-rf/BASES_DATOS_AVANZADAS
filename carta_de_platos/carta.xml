@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE restaurante SYSTEM "carta.dtd">
+<restaurante>
+    <menus>
+        <primeros_platos>
+            <primer_plato>
+                <id_primer>1</id_primer>
+                <Nombre_primer>Mojarra</Nombre_primer>
+                <precio_primer>35000</precio_primer>
+                <observaciones_primer>Mojarra frita con ensalada y papa frita</observaciones_primer>
+                <avisos_primer>la ensalada incluye oregano abstenerse si es alergico</avisos_primer>
+            </primer_plato>
+        </primeros_platos>
+        <segundos_platos>
+            <segundo_plato>
+                <id_segundo>1</id_segundo>
+                <Nombre_segundo>Mojarra</Nombre_segundo>
+                <precio_segundo>35000</precio_segundo>
+                <observaciones_segundo>Mojarra frita con ensalada y papa frita</observaciones_segundo>
+                <avisos_segundo>la ensalada incluye oregano abstenerse si es alergico</avisos_segundo>
+            </segundo_plato>
+        </segundos_platos>
+    </menus>
+</restaurante>
