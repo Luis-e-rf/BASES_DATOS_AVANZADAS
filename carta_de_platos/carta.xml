@@ -14,11 +14,20 @@
         <segundos_platos>
             <segundo_plato>
                 <id_segundo>1</id_segundo>
-                <Nombre_segundo>Mojarra</Nombre_segundo>
-                <precio_segundo>35000</precio_segundo>
-                <observaciones_segundo>Mojarra frita con ensalada y papa frita</observaciones_segundo>
-                <avisos_segundo>la ensalada incluye oregano abstenerse si es alergico</avisos_segundo>
+                <Nombre_segundo>Carne en salsa</Nombre_segundo>
+                <precio_segundo>37000</precio_segundo>
+                <observaciones_segundo>Carne en salsa con arroz y papa criolla</observaciones_segundo>
+                <avisos_segundo>el arroz incluye tomillo abstenerse si es alergico</avisos_segundo>
             </segundo_plato>
         </segundos_platos>
+        <terceros_platos>
+            <tercer_plato>
+                <id_tercero>1</id_tercero>
+                <Nombre_tercero>Carne en salsa</Nombre_tercero>
+                <precio_tercero>37000</precio_tercero>
+                <observaciones_tercero>Carne en salsa con arroz y papa criolla</observaciones_tercero>
+                <avisos_tercero>el arroz incluye tomillo abstenerse si es alergico</avisos_tercero>
+            </tercer_plato>
+        </terceros_platos>
     </menus>
 </restaurante>

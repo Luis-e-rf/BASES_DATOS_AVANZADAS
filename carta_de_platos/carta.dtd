@@ -1,5 +1,5 @@
 <!ELEMENT restaurante (menus*)>
-<!ELEMENT menus (primeros_platos*, segundos_platos*, tercer_plato*)>
+<!ELEMENT menus (primeros_platos*, segundos_platos*, terceros_platos*)>
 <!ELEMENT primeros_platos (primer_plato*)>
 <!ELEMENT primer_plato (id_primer, Nombre_primer, precio_primer, observaciones_primer, avisos_primer)>
 <!ELEMENT id_primer (#PCDATA)>
@@ -14,4 +14,11 @@
 <!ELEMENT precio_segundo (#PCDATA)>
 <!ELEMENT observaciones_segundo (#PCDATA)>
 <!ELEMENT avisos_segundo (#PCDATA)>
-<!ATTLIST Telef tipo CDATA #REQUIRED>
+<!ELEMENT terceros_platos (tercer_plato*)>
+<!ELEMENT tercer_plato (id_tercero, Nombre_tercero, precio_tercero, observaciones_tercero, avisos_tercero)>
+<!ELEMENT id_tercero (#PCDATA)>
+<!ELEMENT Nombre_tercero (#PCDATA)>
+<!ELEMENT precio_tercero (#PCDATA)>
+<!ELEMENT observaciones_tercero (#PCDATA)>
+<!ELEMENT avisos_tercero (#PCDATA)>
+<!-- <!ATTLIST Telef tipo CDATA #REQUIRED>-->
