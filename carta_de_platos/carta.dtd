@@ -17,8 +17,10 @@
 <!ELEMENT terceros_platos (tercer_plato*)>
 <!ELEMENT tercer_plato (id_tercero, Nombre_tercero, precio_tercero, observaciones_tercero, avisos_tercero)>
 <!ELEMENT id_tercero (#PCDATA)>
-<!ELEMENT Nombre_tercero (#PCDATA)>
+<!ELEMENT Nombre_tercero (fruta|dulce|cafe)+>
+<!ELEMENT fruta (#PCDATA)>
+<!ELEMENT dulce (#PCDATA)>
+<!ELEMENT cafe (#PCDATA)>
 <!ELEMENT precio_tercero (#PCDATA)>
 <!ELEMENT observaciones_tercero (#PCDATA)>
 <!ELEMENT avisos_tercero (#PCDATA)>
-<!-- <!ATTLIST Telef tipo CDATA #REQUIRED>-->

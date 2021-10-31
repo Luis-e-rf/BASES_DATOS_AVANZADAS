@@ -23,10 +23,14 @@
         <terceros_platos>
             <tercer_plato>
                 <id_tercero>1</id_tercero>
-                <Nombre_tercero>Carne en salsa</Nombre_tercero>
-                <precio_tercero>37000</precio_tercero>
-                <observaciones_tercero>Carne en salsa con arroz y papa criolla</observaciones_tercero>
-                <avisos_tercero>el arroz incluye tomillo abstenerse si es alergico</avisos_tercero>
+                <Nombre_tercero>
+                    <fruta>manzana</fruta>
+                    <dulce>chocolatina jet</dulce>
+                    <cafe>tinto americano</cafe>
+                </Nombre_tercero>
+                <precio_tercero>3000</precio_tercero>
+                <observaciones_tercero>puedes escoger entre una o mas manzanas, uno o mas chocolatinas jet y uno o mas tintos americanos</observaciones_tercero>
+                <avisos_tercero>la chocolanita tiene alto contenido de azucar abstenerse si es diabetico</avisos_tercero>
             </tercer_plato>
         </terceros_platos>
     </menus>
