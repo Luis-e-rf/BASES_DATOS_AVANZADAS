@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HR SYSTEM "laboratorio1.dtd">
+<HR>
+    <DIRECCIONES_REGIONES>
+        <REGION id="1">Americas</REGION>
+        <PAIS>United States of America</PAIS>
+        <CIUDAD>South Brunswick</CIUDAD>
+        <DIRECCION>2007 Zagora St</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="2">Americas</REGION>
+        <PAIS>United States of America</PAIS>
+        <CIUDAD>South San Francisco</CIUDAD>
+        <DIRECCION>2011 Interiors Blvd</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="3">Americas</REGION>
+        <PAIS>United States of America</PAIS>
+        <CIUDAD>Southlake</CIUDAD>
+        <DIRECCION>2014 Jabberwocky Rd</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="4">Americas</REGION>
+        <PAIS>United States of America</PAIS>
+        <CIUDAD>Seattle</CIUDAD>
+        <DIRECCION>2004 Charade Rd</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="5">Americas</REGION>
+        <PAIS>Mexico</PAIS>
+        <CIUDAD>Mexico City</CIUDAD>
+        <DIRECCION>Mariano Escobedo 9991</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="6">Americas</REGION>
+        <PAIS>Canada</PAIS>
+        <CIUDAD>Toronto</CIUDAD>
+        <DIRECCION>147 Spadina Ave</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="7">Americas</REGION>
+        <PAIS>Canada</PAIS>
+        <CIUDAD>Whitehorse</CIUDAD>
+        <DIRECCION>6092 Boxwood St</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="8">Americas</REGION>
+        <PAIS>Brazil</PAIS>
+        <CIUDAD>Sao Paulo</CIUDAD>
+        <DIRECCION>Rua Frei Caneca 1360 </DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="9">Asia</REGION>
+        <PAIS>Singapore</PAIS>
+        <CIUDAD>Singapore</CIUDAD>
+        <DIRECCION>198 Clementi North</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="10">Asia</REGION>
+        <PAIS>Japan</PAIS>
+        <CIUDAD>Hiroshima</CIUDAD>
+        <DIRECCION>9450 Kamiya-cho</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="11">Asia</REGION>
+        <PAIS>Japan</PAIS>
+        <CIUDAD>Tokyo</CIUDAD>
+        <DIRECCION>2017 Shinjuku-ku</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="12">Asia</REGION>
+        <PAIS>India</PAIS>
+        <CIUDAD>Bombay</CIUDAD>
+        <DIRECCION>1298 Vileparle (E)</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="13">Asia</REGION>
+        <PAIS>China</PAIS>
+        <CIUDAD>Beijing</CIUDAD>
+        <DIRECCION>40-5-12 Laogianggen</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="14">Asia</REGION>
+        <PAIS>Australia</PAIS>
+        <CIUDAD>Sydney</CIUDAD>
+        <DIRECCION>12-98 Victoria Street</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="15">Europe</REGION>
+        <PAIS>United Kingdom</PAIS>
+        <CIUDAD>Oxford</CIUDAD>
+        <DIRECCION>Magdalen Centre, The Oxford Science Park</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="16">Europe</REGION>
+        <PAIS>United Kingdom</PAIS>
+        <CIUDAD>London</CIUDAD>
+        <DIRECCION>8204 Arthur St</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="17">Europe</REGION>
+        <PAIS>United Kingdom</PAIS>
+        <CIUDAD>Stretford</CIUDAD>
+        <DIRECCION>9702 Chester Road</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="18">Europe</REGION>
+        <PAIS>Switzerland</PAIS>
+        <CIUDAD>Geneva</CIUDAD>
+        <DIRECCION>20 Rue des Corps-Saints</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="19">Europe</REGION>
+        <PAIS>Switzerland</PAIS>
+        <CIUDAD>Bern</CIUDAD>
+        <DIRECCION>Murtenstrasse 921</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="20">Europe</REGION>
+        <PAIS>Netherlands</PAIS>
+        <CIUDAD>Utrecht</CIUDAD>
+        <DIRECCION>Pieter Breughelstraat 837</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="21">Europe</REGION>
+        <PAIS>Italy</PAIS>
+        <CIUDAD>Venice</CIUDAD>
+        <DIRECCION>93091 Calle della Testa</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="22">Europe</REGION>
+        <PAIS>Italy</PAIS>
+        <CIUDAD>Roma</CIUDAD>
+        <DIRECCION>1297 Via Cola di Rie</DIRECCION>
+    </DIRECCIONES_REGIONES>
+    <DIRECCIONES_REGIONES>
+        <REGION id="23">Europe</REGION>
+        <PAIS>Germany</PAIS>
+        <CIUDAD>Munich</CIUDAD>
+        <DIRECCION>Schwanthalerstr. 7031</DIRECCION>
+    </DIRECCIONES_REGIONES>
+</HR>
